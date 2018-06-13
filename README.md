@@ -1,0 +1,2 @@
+# Decision-Support-for-a-Two-Stage-Multi-Product-System
+The base idea imparted into people when they hear supply chain or supply chain management is the movement and storage of products. These products may be finished products or raw materials from the point of origin to point of consumption. In general terms this would be the definition of supply chain management. In a more defined way, the definition of it would be as design, planning, execution control and monitoring of supply chain activities with the prime objective of creating net profit for the system.
